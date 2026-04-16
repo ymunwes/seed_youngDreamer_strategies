@@ -110,7 +110,7 @@
       "pricescale": 100,
       "timezone": "America/New_York",
       "group": "Model 5",
-      "active": 1
+      "active": 0
     },
     {
       "symbol": "TQQA",
@@ -118,7 +118,7 @@
       "pricescale": 100,
       "timezone": "America/New_York",
       "group": "Model 5",
-      "active": 1
+      "active": 0
     }
   ]
 }
