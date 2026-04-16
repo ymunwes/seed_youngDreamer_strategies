@@ -1,109 +1,109 @@
 {
   "symbols": [
     {
-      "symbol": "QLDT",
-      "description": "youngDreamer | QLD_Trend_Intraday",
+      "symbol": "SPYI",
+      "description": "youngDreamer | SPY_Intraday",
       "pricescale": 100,
       "timezone": "America/New_York",
-      "group": "Model"
-    },
-    {
-      "symbol": "QQQD",
-      "description": "youngDreamer | QQQ_Daily",
-      "pricescale": 100,
-      "timezone": "America/New_York",
-      "group": "Model"
-    },
-    {
-      "symbol": "QQQL",
-      "description": "youngDreamer | QQQ_Lev_Daily",
-      "pricescale": 100,
-      "timezone": "America/New_York",
-      "group": "Model"
-    },
-    {
-      "symbol": "QQQT",
-      "description": "youngDreamer | QQQ_Trend_Intraday",
-      "pricescale": 100,
-      "timezone": "America/New_York",
-      "group": "Model"
-    },
-    {
-      "symbol": "SPXP",
-      "description": "youngDreamer | SPXL_2Point_safe",
-      "pricescale": 100,
-      "timezone": "America/New_York",
-      "group": "Model"
-    },
-    {
-      "symbol": "SPXC",
-      "description": "youngDreamer | SPXL_CV_Intraday",
-      "pricescale": 100,
-      "timezone": "America/New_York",
-      "group": "Model"
-    },
-    {
-      "symbol": "SPXA",
-      "description": "youngDreamer | SPXL_Trend_Aggr",
-      "pricescale": 100,
-      "timezone": "America/New_York",
-      "group": "Model"
-    },
-    {
-      "symbol": "SPXT",
-      "description": "youngDreamer | SPXL_Trend_Intraday",
-      "pricescale": 100,
-      "timezone": "America/New_York",
-      "group": "Model"
+      "group": "Model 1"
     },
     {
       "symbol": "SPYD",
       "description": "youngDreamer | SPY_Daily",
       "pricescale": 100,
       "timezone": "America/New_York",
-      "group": "Model"
+      "group": "Model 1"
     },
     {
-      "symbol": "SPYI",
-      "description": "youngDreamer | SPY_Intraday",
+      "symbol": "QQQD",
+      "description": "youngDreamer | QQQ_Daily",
       "pricescale": 100,
       "timezone": "America/New_York",
-      "group": "Model"
+      "group": "Model 1"
     },
     {
       "symbol": "SPYL",
       "description": "youngDreamer | SPY_Lev_Daily",
       "pricescale": 100,
       "timezone": "America/New_York",
-      "group": "Model"
+      "group": "Model 1"
     },
     {
-      "symbol": "TQQP",
-      "description": "youngDreamer | TQQQ_2Point_safe",
+      "symbol": "QQQL",
+      "description": "youngDreamer | QQQ_Lev_Daily",
       "pricescale": 100,
       "timezone": "America/New_York",
-      "group": "Model"
+      "group": "Model 1"
+    },
+    {
+      "symbol": "SPXC",
+      "description": "youngDreamer | SPXL_CV_Intraday",
+      "pricescale": 100,
+      "timezone": "America/New_York",
+      "group": "Model 2"
     },
     {
       "symbol": "TQQC",
       "description": "youngDreamer | TQQQ_CV_Intraday",
       "pricescale": 100,
       "timezone": "America/New_York",
-      "group": "Model"
+      "group": "Model 2"
     },
     {
-      "symbol": "TQQA",
-      "description": "youngDreamer | TQQQ_Trend_Aggr",
+      "symbol": "QQQT",
+      "description": "youngDreamer | QQQ_Trend_Intraday",
       "pricescale": 100,
       "timezone": "America/New_York",
-      "group": "Model"
+      "group": "Model 3"
+    },
+    {
+      "symbol": "QLDT",
+      "description": "youngDreamer | QLD_Trend_Intraday",
+      "pricescale": 100,
+      "timezone": "America/New_York",
+      "group": "Model 3"
+    },
+    {
+      "symbol": "SPXT",
+      "description": "youngDreamer | SPXL_Trend_Intraday",
+      "pricescale": 100,
+      "timezone": "America/New_York",
+      "group": "Model 3"
     },
     {
       "symbol": "TQQT",
       "description": "youngDreamer | TQQQ_Trend_Intraday",
       "pricescale": 100,
       "timezone": "America/New_York",
-      "group": "Model"
+      "group": "Model 3"
+    },
+    {
+      "symbol": "SPXP",
+      "description": "youngDreamer | SPXL_2Point_safe",
+      "pricescale": 100,
+      "timezone": "America/New_York",
+      "group": "Model 4"
+    },
+    {
+      "symbol": "TQQP",
+      "description": "youngDreamer | TQQQ_2Point_safe",
+      "pricescale": 100,
+      "timezone": "America/New_York",
+      "group": "Model 4"
+    },
+    {
+      "symbol": "SPXA",
+      "description": "youngDreamer | SPXL_Trend_Aggr",
+      "pricescale": 100,
+      "timezone": "America/New_York",
+      "group": "Model 5"
+    },
+    {
+      "symbol": "TQQA",
+      "description": "youngDreamer | TQQQ_Trend_Aggr",
+      "pricescale": 100,
+      "timezone": "America/New_York",
+      "group": "Model 5"
     }
   ]
 }
