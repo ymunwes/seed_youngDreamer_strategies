@@ -1,14 +1,6 @@
 {
   "symbols": [
     {
-      "symbol": "SPYI",
-      "description": "youngDreamer | SPY_Intraday",
-      "pricescale": 100,
-      "timezone": "America/New_York",
-      "group": "Model 1",
-      "active": 1
-    },
-    {
       "symbol": "SPYD",
       "description": "youngDreamer | SPY_Daily",
       "pricescale": 100,
@@ -38,6 +30,38 @@
       "pricescale": 100,
       "timezone": "America/New_York",
       "group": "Model 1",
+      "active": 1
+    },
+    {
+      "symbol": "SPYI",
+      "description": "youngDreamer | SPY_Intraday",
+      "pricescale": 100,
+      "timezone": "America/New_York",
+      "group": "Model 1 intra",
+      "active": 1
+    },
+    {
+      "symbol": "QQQI",
+      "description": "youngDreamer | QQQ_Intraday_sim",
+      "pricescale": 100,
+      "timezone": "America/New_York",
+      "group": "Model 1 intra",
+      "active": 1
+    },
+    {
+      "symbol": "SPXLI",
+      "description": "youngDreamer | SPXL_Intraday_sim",
+      "pricescale": 100,
+      "timezone": "America/New_York",
+      "group": "Model 1 intra",
+      "active": 1
+    },
+    {
+      "symbol": "TQQQI",
+      "description": "youngDreamer | TQQQ_Intraday_sim",
+      "pricescale": 100,
+      "timezone": "America/New_York",
+      "group": "Model 1 intra",
       "active": 1
     },
     {
