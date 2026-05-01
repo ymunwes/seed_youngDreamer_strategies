@@ -1,6 +1,30 @@
 {
   "symbols": [
     {
+      "symbol": "TSQ3",
+      "description": "youngDreamer | TermStructureQx3",
+      "pricescale": 100,
+      "timezone": "America/New_York",
+      "group": "Live Trading",
+      "active": 1
+    },
+    {
+      "symbol": "TRQ3",
+      "description": "youngDreamer | TrendQx3",
+      "pricescale": 100,
+      "timezone": "America/New_York",
+      "group": "Live Trading",
+      "active": 1
+    },
+    {
+      "symbol": "2PQ3",
+      "description": "youngDreamer | 2PointSafeQx3",
+      "pricescale": 100,
+      "timezone": "America/New_York",
+      "group": "Live Trading",
+      "active": 1
+    },
+    {
       "symbol": "SPYD",
       "description": "youngDreamer | SPY_Daily",
       "pricescale": 100,
